@@ -1,8 +1,8 @@
 # CIS 211 Visual C# and Visual Basic Programming
 
-Quarter | Instructor
+Year    | Institution
 ------- | ----------
-Fall 2015 | ?
+2015    | Cypress College
 
 This repository includes hw and exam grades.
 

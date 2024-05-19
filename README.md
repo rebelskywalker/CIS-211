@@ -4,9 +4,9 @@ Quarter | Instructor
 ------- | ----------
 Fall 2015 | ?
 
-This repository includes labs and grade
+This repository includes hw and exam grades.
 
-Last updated: 1/26/2017
+Last updated: 5/18/2024
 
 ## Homework
 Homework # | Answer
